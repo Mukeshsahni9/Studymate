@@ -25,7 +25,7 @@ A beautiful and intuitive study companion app built with Flutter to help student
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/studymate.git
+git clone https://github.com/Mukeshsahni9/studymate.git
 ```
 
 2. Navigate to the project directory:
